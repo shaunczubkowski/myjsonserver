@@ -1,0 +1,154 @@
+{
+  "haikus": [
+    {
+      "userId": "user1",
+      "poem": "Cherry blossoms fall\nSoftly on the morning dew\nSpring awakens now",
+      "postedDateAndTime": "2024-03-20T08:00:00Z",
+      "likes": 42
+    },
+    {
+      "userId": "user2",
+      "poem": "Moonlight on the lake\nReflects the stars above us\nPeaceful night descends",
+      "postedDateAndTime": "2024-03-19T20:15:00Z",
+      "likes": 38
+    },
+    {
+      "userId": "user3",
+      "poem": "Autumn leaves dancing\nIn the gentle autumn breeze\nNature's final show",
+      "postedDateAndTime": "2024-03-18T14:30:00Z",
+      "likes": 56
+    },
+    {
+      "userId": "user4",
+      "poem": "Ocean waves crashing\nAgainst the rocky shoreline\nEternal rhythm",
+      "postedDateAndTime": "2024-03-17T09:45:00Z",
+      "likes": 47
+    },
+    {
+      "userId": "user5",
+      "poem": "Morning fog lifting\nReveals the mountain's true face\nMystery unfolds",
+      "postedDateAndTime": "2024-03-16T06:20:00Z",
+      "likes": 33
+    },
+    {
+      "userId": "user6",
+      "poem": "Fireflies at night\nDancing in the summer air\nNature's lanterns glow",
+      "postedDateAndTime": "2024-03-15T21:10:00Z",
+      "likes": 61
+    },
+    {
+      "userId": "user7",
+      "poem": "Winter's first snowfall\nBlankets the sleeping garden\nSilent transformation",
+      "postedDateAndTime": "2024-03-14T11:25:00Z",
+      "likes": 52
+    },
+    {
+      "userId": "user8",
+      "poem": "Bamboo forest path\nLeads to ancient temple grounds\nTime stands still here",
+      "postedDateAndTime": "2024-03-13T15:40:00Z",
+      "likes": 45
+    },
+    {
+      "userId": "user9",
+      "poem": "Morning coffee steam\nRises in the early light\nDay begins anew",
+      "postedDateAndTime": "2024-03-12T07:15:00Z",
+      "likes": 39
+    },
+    {
+      "userId": "user10",
+      "poem": "Desert wind whispers\nThrough the ancient canyon walls\nEchoes of time past",
+      "postedDateAndTime": "2024-03-11T16:50:00Z",
+      "likes": 48
+    },
+    {
+      "userId": "user11",
+      "poem": "Rainbow after rain\nBridges earth and sky above\nHope's gentle promise",
+      "postedDateAndTime": "2024-03-10T13:35:00Z",
+      "likes": 54
+    },
+    {
+      "userId": "user12",
+      "poem": "Mountain stream flowing\nOver moss-covered stones\nNature's melody",
+      "postedDateAndTime": "2024-03-09T10:20:00Z",
+      "likes": 43
+    },
+    {
+      "userId": "user13",
+      "poem": "Sunset colors paint\nThe evening sky with wonder\nDay bids farewell now",
+      "postedDateAndTime": "2024-03-08T18:30:00Z",
+      "likes": 58
+    },
+    {
+      "userId": "user14",
+      "poem": "Garden spider spins\nHer web in morning sunlight\nArt in nature's hands",
+      "postedDateAndTime": "2024-03-07T08:45:00Z",
+      "likes": 41
+    },
+    {
+      "userId": "user15",
+      "poem": "Thunder in the night\nLightning flashes through the clouds\nStorm's wild symphony",
+      "postedDateAndTime": "2024-03-06T22:15:00Z",
+      "likes": 49
+    },
+    {
+      "userId": "user16",
+      "poem": "Maple leaves turning\nFrom green to gold and crimson\nAutumn's masterpiece",
+      "postedDateAndTime": "2024-03-05T14:40:00Z",
+      "likes": 55
+    },
+    {
+      "userId": "user17",
+      "poem": "Morning dew drops shine\nLike diamonds in the grass\nNature's jewelry",
+      "postedDateAndTime": "2024-03-04T06:30:00Z",
+      "likes": 37
+    },
+    {
+      "userId": "user18",
+      "poem": "Bees in the garden\nDancing from flower to flower\nSpring's busy workers",
+      "postedDateAndTime": "2024-03-03T11:20:00Z",
+      "likes": 44
+    },
+    {
+      "userId": "user19",
+      "poem": "Northern lights dance\nAcross the Arctic night sky\nAurora's ballet",
+      "postedDateAndTime": "2024-03-02T23:45:00Z",
+      "likes": 63
+    },
+    {
+      "userId": "user20",
+      "poem": "Desert cactus blooms\nIn the harsh midday sunlight\nBeauty in extremes",
+      "postedDateAndTime": "2024-03-01T12:15:00Z",
+      "likes": 46
+    },
+    {
+      "userId": "user21",
+      "poem": "Morning mist rising\nOver the valley below\nDay's gentle birth",
+      "postedDateAndTime": "2024-02-29T07:40:00Z",
+      "likes": 40
+    },
+    {
+      "userId": "user22",
+      "poem": "Ocean tide rising\nBrings treasures to the shore\nNature's gifts arrive",
+      "postedDateAndTime": "2024-02-28T15:25:00Z",
+      "likes": 51
+    },
+    {
+      "userId": "user23",
+      "poem": "Mountain peak piercing\nThrough the clouds above\nEarth touches the sky",
+      "postedDateAndTime": "2024-02-27T09:50:00Z",
+      "likes": 57
+    },
+    {
+      "userId": "user24",
+      "poem": "Frost on window glass\nCreating crystal patterns\nWinter's artwork",
+      "postedDateAndTime": "2024-02-26T05:35:00Z",
+      "likes": 42
+    },
+    {
+      "userId": "user25",
+      "poem": "Cherry tree blossoms\nFalling in the springtime breeze\nPink snow in the air",
+      "postedDateAndTime": "2024-02-25T13:20:00Z",
+      "likes": 59
+    }
+  ]
+}
